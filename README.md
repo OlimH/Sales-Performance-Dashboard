@@ -39,7 +39,7 @@ This project demonstrates data modeling, DAX calculations, interactive visuals, 
 ---
 
 ## 🔗 Live Dashboard
-👉 Add your Power BI link here once published.
+👉 https://app.powerbi.com/links/KSnnxoNtrJ?ctid=817e42a6-b2ff-4e02-82a9-c4afd51e044d&pbi_source=linkShare
 
 ---
 
