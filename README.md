@@ -19,7 +19,7 @@ This project demonstrates data modeling, DAX calculations, interactive visuals, 
 ## 🖼️ Dashboard Preview
 
 ### Overview
-![Dashboard Overview]([assets/dashboard_overview.png](https://github.com/OlimH/Sales-Performance-Dashboard/blob/main/Dashboard_Overview.png))
+![Dashboard Overview](Dashboard_Overview.png)
 
 ### Monthly Sales
 ![Monthly Sales](assets/monthly_sales.png)
