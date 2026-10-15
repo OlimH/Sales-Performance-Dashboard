@@ -22,19 +22,19 @@ This project demonstrates data modeling, DAX calculations, interactive visuals, 
 ![Dashboard Overview](Dashboard_Overview.png)
 
 ### Monthly Sales
-![Monthly Sales](assets/monthly_sales.png)
+![Monthly Sales](Monthly_Sales.png)
 
 ### Category Sales
-![Category Sales](assets/category_sales.png)
+![Category Sales](Total_Sales_By_Product_Category.png)
 
 ### Product Sales
-![Product Sales](assets/product_sales.png)
+![Product Sales](Total_Sales_By_Product_Type.png)
 
 ### Customer Score Analysis
-![Customer Score](assets/customer_score.png)
+![Customer Score](Customer_Sales_By_Score.png)
 
 ### AI Narrative
-![AI Narrative](assets/ai_narrative.png)
+![AI Narrative](AI_Narrative.png)
 
 ---
 
